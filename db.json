@@ -1,0 +1,19 @@
+{
+  "profile": [
+    {
+      "nome": "lucas",
+      "email": "felipe@alura.com",
+      "id": 1
+    },
+    {
+      "nome": "pablo henrique santos da silva",
+      "email": "pablohenriquesantosdasilva@gmail.com",
+      "id": 2
+    },
+    {
+      "nome": "cury",
+      "email": "contato.fcury@gmail.com",
+      "id": 3
+    }
+  ]
+}
